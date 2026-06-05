@@ -1,0 +1,14 @@
+Futuristic cyberpunk corporate AI assistant,
+professional appearance,
+sleek black formal attire,
+neon cyan accent lighting,
+minimal holographic interface elements,
+premium enterprise design,
+confident posture,
+ultra realistic,
+cinematic portrait lighting
+
+Negative prompt:
+cartoon, anime, blurry, distorted face, low quality, extra limbs
+
+Aspect ratio: 4:5

@@ -1,0 +1,13 @@
+Cyberpunk corporate icon set,
+minimal futuristic icons,
+neon cyan glowing edges,
+premium enterprise technology style,
+clean vector appearance,
+dark matte background,
+consistent geometric design,
+ultra detailed
+
+Negative prompt:
+messy icons, blurry, cartoon, low quality, inconsistent design
+
+Aspect ratio: 1:1

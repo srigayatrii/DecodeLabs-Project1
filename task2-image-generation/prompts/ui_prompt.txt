@@ -1,0 +1,14 @@
+Cyberpunk corporate dashboard UI,
+futuristic analytics panels,
+glassmorphism interface,
+neon cyan and purple highlights,
+dark mode enterprise software,
+clean modern layout,
+holographic data visualization,
+ultra detailed,
+high-end SaaS product design
+
+Negative prompt:
+cluttered UI, blurry text, low quality, messy layout, cartoon style
+
+Aspect ratio: 16:9

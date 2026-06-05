@@ -1,0 +1,13 @@
+Futuristic cyberpunk corporate headquarters interior,
+professional executives interacting with holographic displays,
+neon cyan and purple lighting,
+matte black surfaces,
+premium technology startup atmosphere,
+cinematic volumetric lighting,
+ultra realistic,
+high-end enterprise aesthetic
+
+Negative prompt:
+anime, blurry, low detail, oversaturated, noisy, distorted anatomy
+
+Aspect ratio: 16:9

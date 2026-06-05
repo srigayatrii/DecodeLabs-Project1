@@ -1,0 +1,14 @@
+Minimal cyberpunk corporate logo,
+sleek geometric typography,
+neon cyan and violet glow,
+premium futuristic branding,
+dark matte background,
+subtle holographic reflections,
+clean vector style,
+ultra detailed,
+centered composition
+
+Negative prompt:
+blurry, low quality, cartoon, noisy, distorted text, watermark
+
+Aspect ratio: 1:1
